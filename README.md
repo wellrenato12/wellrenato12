@@ -1,6 +1,5 @@
 ### Fala Devs 👋
 
-- 🔭 Atualmente estou desempregado
 - 🌱 Estudando tecnologias front-end
 - 📫 Contate-me no e-mail: well.renato@hotmail.com
 
