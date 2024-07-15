@@ -75,7 +75,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/wellrenato12/wellrenato12/output/snake.svg" alt="Snake animation" />
-
-###
